@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppTryAnthropicAGI", "ConsoleAppTryAnthropicAGI\ConsoleAppTryAnthropicAGI.csproj", "{9CFA054D-3D57-41F1-9E76-D8A1C434E823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppAnthropicNet8", "ConsoleAppAnthropicNet8\ConsoleAppAnthropicNet8.csproj", "{7B3F9329-770A-45EF-A827-F218DAC0DA67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFA054D-3D57-41F1-9E76-D8A1C434E823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFA054D-3D57-41F1-9E76-D8A1C434E823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFA054D-3D57-41F1-9E76-D8A1C434E823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFA054D-3D57-41F1-9E76-D8A1C434E823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3F9329-770A-45EF-A827-F218DAC0DA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3F9329-770A-45EF-A827-F218DAC0DA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3F9329-770A-45EF-A827-F218DAC0DA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3F9329-770A-45EF-A827-F218DAC0DA67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF9BDC1-4E60-4545-AF90-6B5B8CEEF5E9}
+	EndGlobalSection
+EndGlobal
